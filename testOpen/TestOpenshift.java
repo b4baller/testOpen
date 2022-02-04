@@ -1,3 +1,4 @@
+package testOpen;
 
 public class TestOpenshift 
 {
